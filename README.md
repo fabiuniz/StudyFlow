@@ -109,7 +109,7 @@ Sinta-se à vontade para explorar o código, reportar problemas e sugerir melhor
 
 ## Autor
 
-[Fabiaqno Rocha/Fabiuniz]
+[Fabiano Rocha/Fabiuniz]
 
 ## Licença
 

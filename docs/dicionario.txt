@@ -1,0 +1,806 @@
+Com essa lista estou tentando criar um guia de estudos de tecnologias da informação organizando uma lista seguimentada onde vou concluido cada item completando um seguimento, 
+poderia organizar da melhor forma as informações elimidndo redundancias e estruturando melhor !
+
+
+.Net Core Bootstrap 
+A B C 1 e 2 -> duolingo 
+A construção da pesquisa estratégica - UX Strategy
+Abrindo sua empresa do jeito certo
+Acabamento
+Accessibilidade na Educação
+Acessibilidade em Flutter
+Acessibilidade em Javascript
+Acessibilidade em UX
+Administração de Banco de Dados - DBA
+Administração de banco de dados Oracle
+Administração do MongoDB
+Administração do MySQL
+Administração do PostgreSQL
+Administração do SQL Server
+Agile
+Agile Coach
+Agilidade
+Agilidade em Business
+Ambientes híbridos e multicloud
+Analisando a estratégia com dados - UX Strategy
+Analise de dados - PowerBI 
+Analytics by Design
+Analytics Engineering
+Anatomia
+Android
+Android (IA)
+Android - Acessibilidade
+Android - Arquitetura
+Android - Critérios de qualidade do App
+Android - Depuração
+Android - Entrega e integração contínuas (CI/CD)
+Android - Fragments
+Android - Fundamentos
+Android - Navegação no App
+Android - Otimização do app
+Android - Permissões
+Android - Recursos do sistema
+Android - Segurança e Monitoramento
+Android - Sistema de View
+Android - Testes
+Android Studio 
+Angular
+Angular - Angular - CLI (Interface de Linha de Comando) 
+Angular - Angular - Design System 
+Angular - Angular - Formulários 
+Angular - Angular - Fundamentos 
+Angular - Angular - Gerenciamento de Estado 
+Angular - Angular - Injeção de Dependências 
+Angular - Angular - Módulos 
+Angular - Angular - Renderização 
+Angular - Angular - Roteamento 
+Angular - Angular - Services 
+Angular - Angular - Templates 
+Angular - Angular - Testes 
+Angular - Apollo Client 
+Angular - CLI (Interface de Linha de Comando)
+Angular - Conceitos de Orientação a Objetos 
+Angular - CSS - Fundamentos 
+Angular - Formulários
+Angular - Fundamentos
+Angular - Gerenciamento de Estado
+Angular - GraphQL 
+Angular - HTML - Fundamentos 
+Angular - Injeção de Dependências
+Angular - JavaScript - Fundamentos 
+Angular - Módulos
+Angular - Renderização
+Angular - Roteamento
+Angular - RxJS - Fundamentos 
+Angular - Services
+Angular - Templates
+Angular - Testes
+Angular - TypeScript - Fundamentos 
+Animação
+Análise de dados
+Análise de Dados Avançada
+Análise de dados e relatórios
+Análise de Dados para Melhoria
+Análise de Malware
+Análise de métricas para e-commerce
+Análise de negócios
+Análise de Vulnerabilidades
+Análise e estratégia de dados
+Análise e Sistemas
+Análise e Visualização de Dados (BI)
+Aplicações Cloud-Native
+Apollo Client
+Aprendizado por Reforço
+Aprendizado sobre liderança
+Aprendizagem organizacional
+Aprofundamento em frameworks ágeis
+Arduino IDE },
+Arquitetura de Microsserviços
+Arquitetura de Segurança de Rede
+Arquitetura de software
+Arquitetura Zero Trust
+Arquiteturas de Dados - Data Lake e Data Warehouse
+Arquiteturas Serverless
+Artificial Intelligence
+ASP.NET Core
+Atendimento CX
+Automação com IA
+Avançando na UI
+Back-end
+ban 
+Banco de dados Oracle
+Bancos de Dados - Fundamentos
+Bancos de dados não relacionais
+Bancos de dados relacionais
+Benchmarking em RH
+Best Practices
+Big Data - Fundamentos
+Big Data Analytics
+Boas práticas
+Boas práticas e ferramentas
+Box Modeling
+Branding
+Bronze Prata Ouro Safira Rubi Esmeralda Ametista Pérola Obsidiana e Diamante. 
+Build tools Java
+Busca binaria 
+Business
+Business Agility
+Business e Serviços
+Business Intelligence
+Business Intelligence (BI) - Fundamentos
+Business Model Canvas
+C#
+C# - Coleções
+C# - Delegates e Eventos
+C# - Fundamentos
+C# - Gerenciamento de Memória
+C# - Multithreading
+C# - Métodos anônimos e lambda expressions
+C# - Serialização
+C# - System.IO
+Canvas 
+Carreira internacional
+Cenários e recursos
+Chatbots e assistentes virtuais
+Cibersegurança
+Ciencia de dados 
+Ciência de Dados - Fundamentos
+Clean Architecture
+Clean Code
+ClickUp 
+Cloud
+Cloud - Armazenamento
+Cloud - Automação e Orquestração
+Cloud - Design da arquitetura
+Cloud - Fundamentos
+Cloud - Gestão de Infrastrutura
+Cloud - Governança e Compliance
+Cloud - Monitoramento e Otimização
+Cloud - Provedores
+Cloud - Redes
+Cloud - Segurança
+Cloud - Testes
+Cloud, Big Data e Sistemas
+CLR
+Coach de Transição de Carreira 
+cod lab 
+cod.og 
+Coletando dados de um produto
+Coletando e analisando dados de um produto
+Como atrair e reter talentos de tecnologia
+Como usar fontes
+Compliance
+Componentes de design
+Composição
+Composição visual
+Computação Paralela &amp; Clusters
+Comunicação assertiva e não violenta
+Comunicação e relacionamento
+Comunicação, Negócios e Colaboração
+Conceitos
+Conceitos de Design Orientado a Domínio (Domain-Driven Design - DDD)
+Conceitos de Orientação a Objetos
+Conceitos de Photoshop
+Conceitos essenciais de produção de vídeo
+Conceitos SPA
+Confidencialidade, Integridade e Disponibilidade
+confluence 
+Conhecendo a liderança técnica
+Conscientização de Segurança
+construct 3 (Linguagem base: JavaScript) 
+Contêineres
+Copywriting
+Cores
+Correção de cor e ajustes de imagem
+Criando uma aplicação React
+Criando vídeo institucional
+Criação e composição
+Criação e manipulação de APIs
+Criptografia - Fundamentos
+cryengine (Linguagem base: C++) 
+CSS - Fundamentos
+CSS-in-JS
+Cultura Ágil
+Customer Centricity
+Customer Success
+Cálculos, padrões e estratégias
+Dados
+Dados com animações
+Dados e Machine Learning
+Dapper
+Dart 
+Dart - Comunicação com APIs
+Dart - Erros e Exceções
+Dart - Fundamentos
+Dart Assíncrono
+Data Engineering
+Data Lakes
+Data Mesh
+Data Science
+Data Warehouses
+Data-driven UX
+Deep Learning
+Definição do problema
+Deploy de Data Pipelines
+Desenho
+Desenvolvimento e Gestão de APIs
+Design de apresentações
+Design de embalagens
+Design de Jogos
+Design de Jogos como produto
+Design de som imersivo
+Design em movimento
+Design Gráfico
+Design instrucional
+Design para mídias sociais
+Design para produtos digitais
+Design Patterns
+Design Responsivo
+Design Sprint
+Design System
+Design Thinking
+Design, estratégia e UX
+DevOps
+Devops 
+DevOps e Cloud - Conceitos
+DevOps na Cloud
+DevSecOps
+Diagramação e layout avançado
+Digital Content
+Digital Marketing
+dino 
+Direção de Arte no Design de Jogos
+Direção de retratos
+Django
+Django Rest Framework
+Django },
+Documentação e portfólio em UX
+DOM - Fundamentos
+Dropbox paper 
+E-mail marketing
+Edição baseada em narrativa
+Edição com Identidade Visual
+Edição de Vídeo
+Edição de vídeo
+Edição de vídeo orientada por dados
+Edição e Ritmo
+Edição e tratamento
+Edição e tratamento com Lightroom
+Edição Estratégica
+Edição para plataformas de mídia social
+Edição pelo celular
+Educação
+Educação contínua
+Educação corporativa
+Educação à distância
+Efeitos de som e música
+Efeitos de vídeo
+Efeitos visuais e animação avançados
+Elaboração de conteúdos
+Elaboração de contratos
+Elementos essenciais
+Empreendedorismo
+Empreendedorismo para Devs
+Encantamento e retenção
+Engenharia de Confiabilidade de Sites (SRE)
+Engenharia de Dados - Fundamentos
+Ensino e aprendizagem
+Entendendo a escrita em UX - UX Writing
+Entendendo a necessidade do cliente
+Entrega e integração contínuas (CI/CD)
+Equipes ágeis
+Error
+Especialista em Carreira 
+Estatística e Engenharia de Dados
+Estatística e Matemática - Fundamentos
+Estratégia e design de interação na UX
+Estratégias de Monetização em Games
+Estratégias de SEO
+Estratégias e técnicas para produtos digitais
+Estrutura de dados 
+Estrutura de dados > arrays 
+Estrutura de dados > arvores binarias 
+Estrutura de dados > dicionario de dados 
+Estrutura de dados > heap 
+Estrutura de dados > listas encadeadas 
+Estrutura de dados > pilhas e filas 
+Estrutura de dados > tabelas hash 
+Estrutura organizacional
+Estrutura Organizacional e de Negócios
+Estrutura visual
+Estruturas de Dados
+Excel
+exercism.io 
+Explorando conceitos de Marketing Digital
+Extração e Tratamento de Dados
+Feature Engineering
+Feedback e melhoria contínua
+Ferramentas de Acessibilidade
+Ferramentas de criação de conteúdo
+Ferramentas de design
+Ferramentas de design - Parte II
+Ferramentas de design - Parte III
+Ferramentas de gestão
+Ferramentas gratuitas em design gráfico
+Ferramentas ágeis
+Figma
+Figma 
+Figma - Fundamentos
+Firebase 
+Firewalls, IDS e IPS
+Flask
+Fluter 
+Flutter
+Flutter - Animações
+Flutter - Arquitetura
+Flutter - Depuração
+Flutter - Fundamentos
+Flutter - Gerenciamento de Estados
+Flutter - Implantação (Deployment)
+Flutter - Jogos
+Flutter - Multiplataforma Desktop
+Flutter - Multiplataforma Web
+Flutter - Nativo
+Flutter - Pacotes Essenciais
+Flutter - Persistência de Dados
+Flutter - Testes
+Fotografia
+Fotografia com smartphones
+Framer Motion
+Framework de Cibersegurança
+frecodcamp.org 
+Freelancer de sucesso - construa uma carreira autônoma
+Front-end
+Front-end e Mobile
+Full-stack
+Fundamentos
+Fundamentos Ampliados
+Fundamentos da Liderança
+Fundamentos de Customer Experience
+Fundamentos de UI
+Gamificação
+Gerenciamento de Dispositivos Móveis
+Gerenciamento de identidade e acesso (IAM)
+Gerenciamento de logs
+Gerenciamento de Resposta a Incidentes
+Gestão
+Gestão &amp; Pessoas em Tech
+Gestão de carteira
+Gestão de carteira de clientes
+Gestão de Negócios
+Gestão de Processos de Negócios
+Gestão de Produto
+Gestão de Produtos
+Gestão de Produtos - Fundamentos
+Gestão de Produtos Digitais
+Gestão de Projetos
+Gestão de risco, ameaças e vulnerabilidades
+Gestão do Conhecimento
+Gestão e negócios
+Gestão Estratégica e Tomada de Decisão
+Gestão Lean
+Gestão Ágil
+git 
+Git e GitHub - Fundamentos
+GitHub 
+Go
+Go (GoLang) - Fundamentos
+Go - Concorrência
+Go - Construindo APIs REST
+Go - Debugging
+Go - Estruturas
+Go - Goroutines e Canais
+Go - gRPC
+Go - Interfaces
+Go - Melhores Práticas de Segurança
+Go - Orientação a Objetos
+Go - Otimização de Performance
+Go - Pacotes
+Go - Persistência de Dados
+Go - Ponteiros
+Go - Testes
+Go - Tratamento de Erros
+godot (Linguagem base: GDScript C++) 
+Google docs 
+google meet 
+Governança Corporativa e Compliance
+Governança de Dados
+Governança em IA e Business Analytics
+Grafos 
+GraphQL
+Guiando Pessoas para Alta Performance
+Habilidades de comunicação
+Hardening de Servidores
+Hardware e Eletrônica
+Hardwares para IA
+HTML - Fundamentos
+HTTP - Fundamentos
+Hábitos e Boas Práticas na Liderança
+Hábitos e boas práticas na liderança
+IA na educação
+IaaS, PaaS, SaaS
+Ideia ao plano de négocios
+Identidade visual
+Illustrator 
+Iluminação
+Imersão no problema
+Impressão no Design Gráfico
+Inbound Marketing
+Infraestrutura
+Infraestrutura como código (IaC)
+Infraestrutura e Back-end
+Infraestrutura e boas práticas
+Inglês técnico
+Injeção de Dependências
+Inovação e Gestão de Mudanças
+Inovação Social e Empreendedorismo
+Inovação Ágil
+Inteligência Artificial
+Inteligência Artificial (IA) no Design de Jogos
+Inteligência emocional
+IntelliJ IDEA 
+Internet das Coisas (IoT) - Fundamentos
+Interpretando dados
+Introdução a Gestão de Negócios
+Introdução ao Áudiovisual
+iOS
+iOS - Acessibilidade
+iOS - Animações
+iOS - Arquitetura
+iOS - Assíncrono
+iOS - Bibliotecas de terceiros
+iOS - Comunicação com APIs
+iOS - Design System
+iOS - Diretrizes de Interface Humana (HIG)
+iOS - Gerenciamento de Estado
+iOS - Imagens e Ícones
+iOS - Implantação (Deployment)
+iOS - Injeção de dependências
+iOS - Modularização
+iOS - Persistência de dados
+iOS - Recursos do sistema
+iOS - Storyboard
+iOS - Testes
+iOS - UIKit - Fundamentos
+iOS - Vazamento de Memória
+iOS - ViewCode
+Java
+Java - Coleções
+Java - Concorrência
+Java - Fundamentos
+Java - Gerenciamento da Memória
+Java - Manipulação de Erros
+Java - Pacotes
+Java - Persistência
+Java - Testes
+JavaScript - Armazenamento
+JavaScript - Callbacks e Promises
+JavaScript - Concorrência
+JavaScript - ES6
+JavaScript - Fundamentos
+JavaScript - Manipulação de Erros
+JavaScript - Modularização
+JavaScript - Testes
+Jest
+Jetpack Compose - Fundamentos
+Jira 
+Jornada do cliente
+JSON
+Jupyter &amp; Colab notebooks
+JVM
+Kafka
+Kanban
+Kanban 
+Kanban e fluxo de trabalho
+KDoc
+Kotlin
+kotlin 
+Kotlin - Assíncrono
+Kotlin - Collections
+Kotlin - Comunicação com APIs
+Kotlin - Coroutines
+Kotlin - Date Serialization Library
+Kotlin - Extensões
+Kotlin - Fundamentos
+Kotlin - Gerenciamento de memória
+Kotlin - Injeção de Dependências
+Kotlin - Manipulação de erros
+Kotlin - Multiplatform
+Kotlin - Scope Functions
+Kotlin - Type Safe Builders
+Laravel
+Leader 
+Lean-Ágil além da TI
+Liderança
+Liderança ambidestra
+Liderança de equipe
+Liderança e Gestão de Equipes
+Liderança transformacional
+Linha de comando - Fundamentos
+LinkedIn 
+linkedin 
+LINQ
+Linux - Fundamentos
+Lodash
+Lottie
+Lógica de Programação
+Lógica Fuzzy
+Machine Learning - Aprendizado Não Supervisionado
+Machine Learning - Aprendizado por Transferência
+Machine Learning - Avaliação de Modelos
+Machine Learning - Fundamentos
+Machine Learning Enginer 
+Management 3.0
+Management 3.0 
+Manager project 
+Manager project > Descrever projetos e suas integrações cronologicamente 
+Marketing de Conteúdo
+Marketing de conteúdo
+Marketing Digital
+Marketing Estratégico e Análise de Mercado
+Marketing Viral
+Marketplace
+Material Design
+MAUI
+Metasploit - Ataque e Análise
+Microsof office 
+Microsoft Teams 
+microsoft teams 
+Microsserviços
+Miro 
+MLOps
+Modelagem 3D
+Modelagem de dados
+Modelagem Poligonal
+MongoDB
+mongoDB 
+Motion
+Motion branding
+Motion Design
+MySQL
+Métodos de ensino
+Métricas
+Métricas de qualidade de atendimento
+Métricas Ágeis
+Mídias sociais
+Naive Bayes
+Negociação no atendimento
+Nest.js - Fundamentos
+Networking
+Next.js 
+NLP Q&amp;A e Geração de Textos
+Node 
+Node.js
+Node.js 
+Node.js - Autenticação e Tokens
+Node.js - Express
+Node.js - Fundamentos
+Node.js - ORM
+Node.js - Testes
+NuGet
+Nuxt
+O que é design
+O que é design de jogos
+O texto no produto e no dia a dia - UX Writing
+Object Calisthenics
+OBS Studio
+OKRs
+Oratória para líderes
+Orquestração de Data Pipelines
+Outbound Marketing
+People Analytics - RH orientado a dados
+Perguntas poderosas sobre vendas
+Personagens
+Pesquisas, testes e validações - UX Research
+Photoshop 
+PHP
+PHP - Arquivos e Streams
+PHP - Coleções
+PHP - Composer
+PHP - Comunicação com APIs
+PHP - Fundamentos
+PHP - Manipulação de Erros
+PHP - MVC
+PHP - Persistência
+PHP - Symfony
+PHP - Testes
+PHP - XDebug
+PHP Assíncrono
+PHP Funcional
+Pinia
+Pipelines e ETL
+Planejamento e Metas Estratégicas
+Plano de Marketing Digital
+Plataformas e Serviços Cognitivos
+Poly by Poly
+Portfólio
+PostgreSQL
+Power BI
+Previsão de Séries temporais
+Primeiro contato com UX
+Princípios do design visual
+Priorização
+Processamento de Linguagem Natural
+Processamento distribuído de dados
+Product Design
+Product Discovery
+Product Management
+Product management
+Product Manager
+Produção de vídeo
+Produção de Vídeo"}
+Profissões: Analista de Comunicação 
+Profissões: Analista de Dados 
+Profissões: Engenheiro de Software 
+Profissões: Engenheiro de Software (trabalho em equipe) 
+Profissões: Especialista em Networking 
+Profissões: Gerente de Projetos 
+Profissões: Gestor de Comunidade 
+Profissões: GitOps Engineer 
+Profissões: Product Owner 
+Profissões: Scrum Master 
+Profissões: Trabalhos Remotos em Geral 
+Proposta de Valor
+Propriedade Intelectual
+Prospecção de clientes
+Proteção de dados
+Python
+Python - args &amp; kwargs
+Python - Assíncrono
+Python - Coleções
+Python - Comunicação com APIs
+Python - Fundamentos
+Python - Geradores
+Python - Lambdas e Closures
+Python - MVC e MTV
+Python - Métodos especiais (dunder)
+Python - Orientação a Objetos Avançada
+Python - Testes
+Python - Tipagem estática
+Python para Ciência de Dados
+Quasar Framework
+Quora 
+R para Ciência de Dados
+React
+React - Bibliotecas de Design System
+React - Componentes
+React - Gerenciamento de Performance
+React - Props
+React - Validação de formulários
+React Developer Tools
+React Hooks - Callback
+React Hooks - Memo
+React Hooks - Ref
+react nactive 
+React Native
+React Native - Animações
+React Native - Arquitetura
+React Native - Fundamentos
+React Native - Nativo
+React Native - Pacotes Essenciais
+React Native - Testes
+reactily 
+Recrutamento e Seleção
+Recuperação de Desastres e Continuidade de Negócios
+Recursão 
+Redes - Avançado
+Redes Adversárias Generativas (GANs)
+Redes de Computadores - Fundamentos
+Redes Neurais Convolucionais
+Redes Neurais Recorrentes
+Redução de Dimensionalidade
+Reflection e atributos
+Regressão Linear e Logística
+RH
+RH na Educação Corporativa
+RH Ágil
+Roadmap
+Robótica na IA - Fundamentos
+Rust 
+RxJS - Fundamentos
+Scrum
+Scrum 
+Se comunicando com a pessoa usuária - UX Writing
+Segurança da Informação
+Segurança de Aplicações de Software
+Segurança de Endpoint
+Segurança em autenticação e senhas
+Segurança física
+SEO
+Service Workers
+sharepoint 
+Shell Scripting
+SIEM e SOAR
+Sistemas de cores
+Sistemas e tecnologias
+Sistemas operacionais
+Slack 
+Social Commerce
+Social Selling
+Soft skills
+SOLID
+Solução e proposta
+Sorting 
+Sorting > merge 
+Sorting > quick 
+Sorting > radix 
+Spring Boot
+Spring Framework
+SQL - Avançado
+SQL - Fundamentos
+SQL Server
+Storytelling
+Storytelling com dados
+Streaming
+Streaming video recording
+Streamlabs
+Swift - Fundamentos
+Tech Lead
+Tech Recruiter
+Technical Writing
+Tecnologia e Automação
+testes automatizados (integração continua) 
+Testes de software
+Testes Estatísticos
+Texturização
+Threat Hunting
+Tipos de inteligência artificial
+Transformação Digital e Inovação Empresarial
+Tratamento de pele
+Trello 
+TypeScript - Fundamentos
+Técnicas de facilitação de RH
+Técnicas e Habilidades para Liderança
+Técnicas Hacker
+Técnicas para melhorar o aprendizado sobre o mercado
+UI Design
+UI no produto digital
+unity (Linguagem base: C#) 
+unreal (Linguagem base: C++) 
+Usar Git para integrar com um projeto scrum 
+User Interface
+UX &amp; Design
+UX design
+UX Design
+UX e Design
+UX Lead
+UX Research
+UX Strategy
+UX Writing
+UX/UI em design de jogos
+Vendas
+Vendas baseadas em necessidades
+Vendas na era digital
+Versionamento Semântico para Front-end
+Viabilidade de Projetos e Negócios
+Virtualização - Fundamentos
+Visual Design
+Visão Computacional
+Visão de negócio e estratégia - UX Strategy
+Vite
+Viés Cognitivo e IA Responsável
+vs-code (C# .Net + live-server browser-sync) 
+Vue
+Vue 
+Vue - Componentes
+Vue - Componentes assíncronos
+Vue - Composition API a fundo
+Vue - Comunicando-se com APIs
+Vue - Estilizando componentes
+Vue - Performance
+Vue - Props
+Vue - Teleporte
+Vue - Testes
+Vue Devtools
+Vue Slots
+Vídeos para web
+Wearables e Aquisição de Dados
+Web application - Segurança
+Web application - Vulnerabilidade
+Web Scraping
+WebSockets
+XGBoost
+XP 
+YARN
+zig 
+zoom 

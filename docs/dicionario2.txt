@@ -1,0 +1,801 @@
+Guia de Estudos em Tecnologia da Informação
+Este guia organiza tópicos de estudo em Tecnologia da Informação, eliminando redundâncias e estruturando o conteúdo em segmentos lógicos. Cada segmento agrupa áreas relacionadas, permitindo um aprendizado progressivo e focado. Os tópicos estão organizados em categorias principais, com subcategorias para maior clareza. O objetivo é facilitar o acompanhamento e a conclusão de cada item, segmentando o progresso.
+
+1. Fundamentos de Programação e Desenvolvimento
+Lógica e Estruturas de Dados
+
+Lógica de Programação
+Estruturas de Dados
+Arrays
+Listas Encadeadas
+Pilhas e Filas
+Tabelas Hash
+Árvores Binárias
+Heap
+Grafos
+Dicionário de Dados
+
+
+Algoritmos
+Busca Binária
+Recursão
+Ordenação (Merge Sort, Quick Sort, Radix Sort)
+
+
+Boas Práticas
+Clean Code
+SOLID
+Object Calisthenics
+
+
+
+Linguagens de Programação
+
+C#
+Fundamentos
+Coleções
+Delegates e Eventos
+Métodos Anônimos e Lambda Expressions
+Multithreading
+Gerenciamento de Memória
+Serialização
+System.IO
+LINQ
+
+
+Java
+Fundamentos
+Coleções
+Concorrência
+Gerenciamento de Memória
+Manipulação de Erros
+Pacotes
+Persistência
+Testes
+
+
+JavaScript
+Fundamentos
+ES6
+Callbacks e Promises
+Concorrência
+Manipulação de Erros
+Modularização
+DOM
+Armazenamento
+Testes (Jest, Lodash)
+
+
+Python
+Fundamentos
+Coleções
+Lambdas e Closures
+Geradores
+Métodos Especiais (Dunder)
+Orientação a Objetos Avançada
+Assíncrono
+Comunicação com APIs
+Testes
+Tipagem Estática
+Args & Kwargs
+
+
+Kotlin
+Fundamentos
+Collections
+Coroutines
+Scope Functions
+Extensões
+Type Safe Builders
+Assíncrono
+Comunicação com APIs
+Gerenciamento de Memória
+Manipulação de Erros
+Multiplatform
+
+
+Go (GoLang)
+Fundamentos
+Estruturas
+Ponteiros
+Interfaces
+Goroutines e Canais
+Concorrência
+Pacotes
+Persistência de Dados
+Construindo APIs REST
+gRPC
+Testes
+Debugging
+Otimização de Performance
+Melhores Práticas de Segurança
+
+
+PHP
+Fundamentos
+Coleções
+Manipulação de Erros
+Arquivos e Streams
+Comunicação com APIs
+MVC
+Persistência
+Assíncrono
+Funcional
+Composer
+Symfony
+XDebug
+Testes
+
+
+Dart
+Fundamentos
+Comunicação com APIs
+Erros e Exceções
+Assíncrono
+
+
+TypeScript
+Fundamentos
+
+
+Rust
+Fundamentos
+
+
+Zig
+Fundamentos
+
+
+Swift
+Fundamentos
+
+
+
+Ferramentas e Versionamento
+
+Git e GitHub
+Fundamentos
+Integração com Scrum
+
+
+Linha de Comando
+VS Code (C# .NET, Live-Server, Browser-Sync)
+IntelliJ IDEA
+Arduino IDE
+Build Tools Java
+KDoc
+NuGet
+YARN
+
+
+2. Desenvolvimento Web e Mobile
+Front-end
+
+HTML
+Fundamentos
+
+
+CSS
+Fundamentos
+CSS-in-JS
+Design Responsivo
+
+
+JavaScript Frameworks
+React
+Fundamentos
+Componentes
+Props
+Hooks (Callback, Memo, Ref)
+Gerenciamento de Performance
+Validação de Formulários
+Bibliotecas de Design System
+React Developer Tools
+
+
+React Native
+Fundamentos
+Arquitetura
+Animações
+Nativo
+Pacotes Essenciais
+Testes
+
+
+Vue
+Fundamentos
+Componentes
+Componentes Assíncronos
+Composition API
+Props
+Slots
+Teleporte
+Comunicando-se com APIs
+Estilizando Componentes
+Performance
+Testes
+Vue Devtools
+
+
+Angular
+Fundamentos
+CLI
+Módulos
+Formulários
+Roteamento
+Services
+Templates
+Injeção de Dependências
+Gerenciamento de Estado
+Renderização
+Testes
+Design System
+RxJS
+GraphQL
+Apollo Client
+
+
+Next.js
+Fundamentos
+
+
+Nuxt
+Fundamentos
+
+
+Quasar Framework
+Fundamentos
+
+
+Pinia
+Fundamentos
+
+
+
+
+Outras Tecnologias
+Service Workers
+WebSockets
+JSON
+Vite
+HTTP
+SPA
+Versionamento Semântico
+
+
+
+Back-end
+
+Node.js
+Fundamentos
+Express
+Autenticação e Tokens
+ORM
+Testes
+
+
+ASP.NET Core
+Fundamentos
+
+
+Spring Framework
+Spring Boot
+
+
+Django
+Fundamentos
+Django Rest Framework
+
+
+Flask
+Fundamentos
+
+
+Laravel
+Fundamentos
+
+
+Nest.js
+Fundamentos
+
+
+Microsserviços
+Arquitetura
+Criação e Manipulação de APIs
+
+
+Outras Tecnologias
+Dapper
+GraphQL
+Apollo Client
+Kafka
+Web Scraping
+
+
+
+Mobile
+
+Android
+Fundamentos
+Arquitetura
+Fragments
+Navegação no App
+Sistema de View
+Permissões
+Recursos do Sistema
+Segurança e Monitoramento
+Depuração
+Otimização do App
+Testes
+Entrega e Integração Contínuas (CI/CD)
+Acessibilidade
+Critérios de Qualidade do App
+Android Studio
+Jetpack Compose
+
+
+iOS
+Fundamentos
+Arquitetura
+UIKit
+ViewCode
+Storyboard
+Animações
+Comunicação com APIs
+Gerenciamento de Estado
+Persistência de Dados
+Recursos do Sistema
+Imagens e Ícones
+Injeção de Dependências
+Modularização
+Assíncrono
+Testes
+Implantação
+Acessibilidade
+Diretrizes de Interface Humana (HIG)
+Design System
+Vazamento de Memória
+Bibliotecas de Terceiros
+
+
+Flutter
+Fundamentos
+Arquitetura
+Gerenciamento de Estados
+Persistência de Dados
+Animações
+Testes
+Depuração
+Implantação
+Multiplataforma (Web, Desktop)
+Nativo
+Pacotes Essenciais
+Jogos
+Acessibilidade
+
+
+MAUI
+Fundamentos
+
+
+
+
+3. Bancos de Dados
+Fundamentos
+
+Bancos de Dados Relacionais
+Bancos de Dados Não Relacionais
+SQL
+Fundamentos
+Avançado
+
+
+
+Administração
+
+MySQL
+PostgreSQL
+SQL Server
+Oracle
+MongoDB
+Administração de Banco de Dados (DBA)
+
+Arquiteturas
+
+Data Lake
+Data Warehouse
+Data Mesh
+
+
+4. Cloud Computing e Infraestrutura
+Fundamentos
+
+Cloud
+Fundamentos
+Provedores
+Armazenamento
+Redes
+Segurança
+Monitoramento e Otimização
+Governança e Compliance
+Testes
+Automação e Orquestração
+Design da Arquitetura
+Gestão de Infraestrutura
+
+
+IaaS, PaaS, SaaS
+Ambientes Híbridos e Multicloud
+Arquiteturas Serverless
+
+DevOps
+
+Fundamentos
+Entrega e Integração Contínuas (CI/CD)
+Infraestrutura como Código (IaC)
+Contêineres
+GitOps
+Monitoramento de Logs
+Engenharia de Confiabilidade de Sites (SRE)
+
+Ferramentas
+
+Virtualização
+Linux
+Shell Scripting
+Firebase
+
+
+5. Ciência de Dados e Inteligência Artificial
+Ciência de Dados
+
+Fundamentos
+Python para Ciência de Dados
+R para Ciência de Dados
+Estatística e Matemática
+Análise de Dados
+Power BI
+Visualização de Dados (BI)
+Storytelling com Dados
+
+
+Engenharia de Dados
+Fundamentos
+Pipelines e ETL
+Orquestração de Data Pipelines
+Deploy de Data Pipelines
+
+
+Big Data
+Fundamentos
+Analytics
+
+
+Data Lakes
+Data Warehouses
+
+Machine Learning
+
+Fundamentos
+Avaliação de Modelos
+Aprendizado Não Supervisionado
+Aprendizado por Transferência
+Feature Engineering
+Regressão Linear e Logística
+Naive Bayes
+Redução de Dimensionalidade
+Previsão de Séries Temporais
+MLOps
+XGBoost
+
+Deep Learning
+
+Redes Neurais Convolucionais
+Redes Neurais Recorrentes
+Redes Adversárias Generativas (GANs)
+
+Processamento de Linguagem Natural (NLP)
+
+Q&A e Geração de Textos
+Lógica Fuzzy
+
+Visão Computacional
+
+Fundamentos
+
+Outros
+
+Aprendizado por Reforço
+Robótica na IA
+Hardwares para IA
+Viés Cognitivo e IA Responsável
+Plataformas e Serviços Cognitivos
+
+
+6. Design e UX
+Fundamentos
+
+O que é Design
+Princípios do Design Visual
+Cores
+Composição Visual
+Tipografia
+Sistemas de Cores
+Identidade Visual
+
+UX/UI
+
+UX Design
+Fundamentos
+UX Research
+UX Writing
+UX Strategy
+Data-Driven UX
+Design Thinking
+Design Sprint
+Documentação e Portfólio
+
+
+UI Design
+Fundamentos
+Design System
+Componentes de Design
+
+
+Ferramentas
+Figma
+Photoshop
+Illustrator
+Framer Motion
+Lottie
+
+
+
+Acessibilidade
+
+Fundamentos
+Ferramentas de Acessibilidade
+Acessibilidade em UX
+Acessibilidade em JavaScript
+Acessibilidade em Flutter
+Acessibilidade em Android
+Acessibilidade em iOS
+
+Outros
+
+Design para Produtos Digitais
+Design Responsivo
+Design de Interação
+Motion Design
+Design Gráfico
+Design para Mídias Sociais
+Design de Apresentações
+Design de Embalagens
+
+
+7. Desenvolvimento de Jogos
+Fundamentos
+
+O que é Design de Jogos
+Direção de Arte
+UX/UI em Design de Jogos
+Inteligência Artificial no Design de Jogos
+Design de Som Imersivo
+Estratégias de Monetização
+
+Ferramentas
+
+Unity (C#)
+Unreal Engine (C++)
+Godot (GDScript, C++)
+CryEngine (C++)
+Construct 3 (JavaScript)
+
+Técnicas
+
+Modelagem 3D
+Modelagem Poligonal
+Texturização
+Animação
+Poly by Poly
+
+
+8. Cibersegurança
+Fundamentos
+
+Segurança da Informação
+Confidencialidade, Integridade e Disponibilidade
+Criptografia
+Conscientização de Segurança
+
+Técnicas
+
+Análise de Vulnerabilidades
+Análise de Malware
+Threat Hunting
+Técnicas Hacker
+Hardening de Servidores
+Segurança em Autenticação e Senhas
+Segurança de Endpoint
+Segurança Física
+Web Application (Segurança e Vulnerabilidades)
+
+Arquitetura
+
+Arquitetura de Segurança de Rede
+Arquitetura Zero Trust
+Firewalls, IDS e IPS
+SIEM e SOAR
+
+Gestão
+
+Gerenciamento de Identidade e Acesso (IAM)
+Gestão de Risco, Ameaçças e Vulnerabilidades
+Governança Corporativa e Compliance
+Proteção de Dados
+Recuperação de Desastres e Continuidade de Negócios
+
+Ferramentas
+
+Metasploit
+
+
+9. Gestão e Negócios
+Gestão de Projetos
+
+Fundamentos
+Scrum
+Kanban
+OKRs
+Gestão Ágil
+Gestão Lean
+Management 3.0
+
+Gestão de Produtos
+
+Fundamentos
+Product Discovery
+Product Management
+Gestão de Produtos Digitais
+
+Negócios
+
+Business Intelligence
+Fundamentos
+
+
+Business Agility
+Business Model Canvas
+Estratégia e Tomada de Decisão
+Customer Centricity
+Customer Success
+Jornada do Cliente
+Proposta de Valor
+
+Marketing
+
+Marketing Digital
+Fundamentos
+SEO
+Inbound Marketing
+Outbound Marketing
+Marketing de Conteúdo
+E-mail Marketing
+Social Commerce
+Social Selling
+Marketing Viral
+
+
+Análise de Métricas para E-commerce
+Plano de Marketing Digital
+
+Outros
+
+Empreendedorismo
+Inovação e Gestão de Mudanças
+Governança de Dados
+Compliance
+Gestão do Conhecimento
+Gestão de Processos de Negócios
+
+
+10. Liderança e Soft Skills
+Liderança
+
+Fundamentos
+Liderança Transformacional
+Liderança Ambidestra
+Liderança de Equipe
+Hábitos e Boas Práticas
+Oratória para Líderes
+Conhecendo a Liderança Técnica
+Técnicas e Habilidades
+
+Soft Skills
+
+Comunicação Assertiva e Não Violenta
+Inteligência Emocional
+Feedback e Melhoria Contínua
+Negociação no Atendimento
+Habilidades de Comunicação
+
+Carreira
+
+Construindo uma Carreira Autônoma
+Carreira Internacional
+Portfólio
+LinkedIn
+Recrutamento e Seleção
+Coach de Transição de Carreira
+
+
+11. Ferramentas de Colaboração e Produtividade
+
+Google Docs
+Microsoft Teams
+Zoom
+Slack
+Trello
+Jira
+Confluence
+Miro
+ClickUp
+Dropbox Paper
+SharePoint
+
+
+12. Educação e Aprendizagem
+
+Educação Corporativa
+Educação à Distância
+Métodos de Ensino
+Design Instrucional
+Gamificação
+IA na Educação
+Educação Contínua
+
+
+13. Outros
+Internet das Coisas (IoT)
+
+Fundamentos
+Wearables e Aquisição de Dados
+
+Hardware e Eletrônica
+
+Fundamentos
+
+Produção de Vídeo
+
+Fundamentos
+Edição de Vídeo
+Narrativa
+Identidade Visual
+Plataformas de Mídias Sociais
+Dados
+
+
+Efeitos Visuais e Animação
+Produção de Vídeo Institucional
+Streaming (OBS Studio, Streamlabs)
+
+Fotografia
+
+Fundamentos
+Fotografia com Smartphones
+Iluminação
+Tratamento com Lightroom
+
+Inglês Técnico
+
+Fundamentos
+
+
+Plano de Estudo
+
+Defina Prioridades: Escolha uma categoria principal (ex.: Desenvolvimento Web, Ciência de Dados) com base em seus objetivos.
+Siga a Ordem dos Segmentos: Comece pelos fundamentos de cada categoria antes de avançar para tópicos avançados.
+Marque o Progresso: Conclua cada item e registre o avanço por segmento.
+Pratique Regularmente: Utilize plataformas como Exercism.io, FreeCodeCamp.org, ou CodeLab para exercícios práticos.
+Revise Periodicamente: Reavalie o guia para ajustar prioridades com base em novas necessidades ou interesses.
+
