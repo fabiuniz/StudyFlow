@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análise de Vendas Lepok (Simulação)</title>
+    <style>
+        body { font-family: sans-serif; }
+        h2 { margin-top: 20px; }
+        ul { list-style-type: none; padding: 0; }
+        li { margin-bottom: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Análise de Vendas Lepok (Simulação)</h1>
+    AI - sugira e crie uma pequena aplicação que resolva um problema em javascript para gerar alguns insights
+valiosos para essa empresa acima!
+    <div id="insights">
+        <h2>Tendência de Vendas por Categoria</h2>
+        <ul id="tendencia-categorias"></ul>
+
+        <h2>Picos de Vendas Sazonais</h2>
+        <ul id="picos-sazonais"></ul>
+
+        <h2>Produtos Mais Vendidos</h2>
+        <ol id="produtos-mais-vendidos"></ol>
+    </div>
+
+    <script>
+        // Dados de vendas simulados (poderiam vir de um arquivo CSV ou API)
+        const vendas = [
+            { produto: "Caneta Bic Cristal", categoria: "Canetas", mes: "Janeiro", quantidade: 150 },
+            { produto: "Caderno Espiral 10 Matérias", categoria: "Cadernos", mes: "Janeiro", quantidade: 120 },
+            { produto: "Lápis HB Faber-Castell", categoria: "Lápis", mes: "Janeiro", quantidade: 180 },
+            { produto: "Bloco de Notas Adesivas", categoria: "Papelaria", mes: "Fevereiro", quantidade: 90 },
+            { produto: "Caneta Pilot Pop'lol", categoria: "Canetas", mes: "Fevereiro", quantidade: 110 },
+            { produto: "Caderno Universitário", categoria: "Cadernos", mes: "Fevereiro", quantidade: 150 },
+            { produto: "Caneta Bic Cristal", categoria: "Canetas", mes: "Março", quantidade: 200 },
+            { produto: "Caderno Espiral 10 Matérias", categoria: "Cadernos", mes: "Março", quantidade: 180 },
+            { produto: "Lápis de Cor 24 Cores", categoria: "Lápis", mes: "Março", quantidade: 110 },
+            { produto: "Resma de Papel A4", categoria: "Papelaria", mes: "Agosto", quantidade: 250 },
+            { produto: "Caneta Bic Cristal", categoria: "Canetas", mes: "Agosto", quantidade: 280 },
+            { produto: "Caderno Espiral 10 Matérias", categoria: "Cadernos", mes: "Agosto", quantidade: 220 },
+            { produto: "Cola Bastão", categoria: "Escritório", mes: "Agosto", quantidade: 160 },
+            { produto: "Caneta Pilot Pop'lol", categoria: "Canetas", mes: "Setembro", quantidade: 150 },
+            { produto: "Caderno Universitário", categoria: "Cadernos", mes: "Setembro", quantidade: 200 },
+            { produto: "Resma de Papel A4", categoria: "Papelaria", mes: "Novembro", quantidade: 300 },
+            { produto: "Agenda 2024", categoria: "Papelaria", mes: "Dezembro", quantidade: 180 },
+            { produto: "Caneta Bic Cristal", categoria: "Canetas", mes: "Dezembro", quantidade: 220 },
+            { produto: "Panetone (Brincadeira! 😉)", categoria: "Outros", mes: "Dezembro", quantidade: 5 },
+            // ... mais dados de vendas simulados ...
+        ];
+
+        // 1. Tendência de Vendas por Categoria
+        const vendasPorCategoria = {};
+        vendas.forEach(venda => {
+            if (!vendasPorCategoria[venda.categoria]) {
+                vendasPorCategoria[venda.categoria] = 0;
+            }
+            vendasPorCategoria[venda.categoria] += venda.quantidade;
+        });
+
+        const listaTendenciaCategorias = document.getElementById("tendencia-categorias");
+        for (const categoria in vendasPorCategoria) {
+            const listItem = document.createElement("li");
+            listItem.textContent = `${categoria}: ${vendasPorCategoria[categoria]} unidades vendidas`;
+            listaTendenciaCategorias.appendChild(listItem);
+        }
+
+        // 2. Picos de Vendas Sazonais (Simples: Total por Mês)
+        const vendasPorMes = {};
+        vendas.forEach(venda => {
+            if (!vendasPorMes[venda.mes]) {
+                vendasPorMes[venda.mes] = 0;
+            }
+            vendasPorMes[venda.mes] += venda.quantidade;
+        });
+
+        const listaPicosSazonais = document.getElementById("picos-sazonais");
+        for (const mes in vendasPorMes) {
+            const listItem = document.createElement("li");
+            listItem.textContent = `${mes}: ${vendasPorMes[mes]} unidades vendidas`;
+            listaPicosSazonais.appendChild(listItem);
+        }
+
+        // Uma análise mais detalhada poderia ser feita por categoria e mês.
+
+        // 3. Produtos Mais Vendidos
+        const vendasPorProduto = {};
+        vendas.forEach(venda => {
+            if (!vendasPorProduto[venda.produto]) {
+                vendasPorProduto[venda.produto] = 0;
+            }
+            vendasPorProduto[venda.produto] += venda.quantidade;
+        });
+
+        const produtosOrdenados = Object.entries(vendasPorProduto) //pega lista de vendas
+            .sort(([, a], [, b]) => b - a) // ordena produtos 
+            .slice(0, 5); // pega os Top 5 produtos que vai ser gradado em produtosOrdenados
+
+        const listaProdutosMaisVendidos = document.getElementById("produtos-mais-vendidos");
+        produtosOrdenados.forEach(([produto, quantidade]) => {
+            const listItem = document.createElement("li");
+            listItem.textContent = `${produto}: ${quantidade} unidades vendidas`;
+            listaProdutosMaisVendidos.appendChild(listItem);
+        });
+    </script>
+</body>
+</html>

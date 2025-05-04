@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<script type="text/javascript">
+		let peso = 75; /* em quilogramas*/
+		let altura = 1.80; /* em metros*/
+		/* Calcula o IMC*/
+		let imc = peso / (altura * altura);
+		/* Interpreta o IMC*/
+		let resultado;
+		if (imc < 18.5) {
+			resultado = "Abaixo do peso";
+		} else if (imc >= 18.5 && imc < 24.9) {
+			resultado = "Peso normal";
+		} else if (imc >= 24.9 && imc < 29.9) {
+			resultado = "Sobrepeso";
+		} else {
+			resultado = "Obesidade";
+		}
+	</script>
+</head>
+<body>
+	<script >
+		document.write("Seu IMC é " + imc.toFixed(2) + ". Isso é considerado " + resultado + ".");
+	</script>
+</body>
+</html>
