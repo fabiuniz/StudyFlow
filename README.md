@@ -94,6 +94,8 @@ O StudyFlow permite você organizar seu material de estudo por categorias e subn
 * **Pesquisa na Barra Lateral:** Filtragem rápida de tópicos na navegação.
 * **Seleção Dinâmica de Base de Dados:** Flexibilidade para gerenciar múltiplos planos de estudo.
 
+![Imagem de um fluxo de estudo](./docs/studyfluxo.png)
+
 ## Próximos Passos (Ideias)
 
 Este é um protótipo em desenvolvimento, e futuras melhorias podem incluir:
